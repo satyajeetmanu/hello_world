@@ -5,6 +5,4 @@ Learning to make commits
 
 first change!
 
-second change!
-
 thankyou!
