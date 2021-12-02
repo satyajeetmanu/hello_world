@@ -5,4 +5,8 @@ Learning to make commits
 
 first change!
 
+second change!
+
+color - blue
+
 thankyou!
